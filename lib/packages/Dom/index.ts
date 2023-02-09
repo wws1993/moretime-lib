@@ -1,0 +1,1 @@
+export { triggerFullScreen } from "./triggerFullScreen";

@@ -1,6 +1,6 @@
 {
   "name": "@moretime/lib",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,6 @@
     "prepublish": "npm run build",
     "publish": "npm publish"
   },
-  "pre-push": [
-    "publish"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wws1993/moretime-lib.git"
@@ -29,8 +26,6 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "pre-commit": "^1.2.2",
-    "pre-push": "^0.1.4",
     "typescript": "^4.9.5"
   }
 }
