@@ -1,5 +1,3 @@
-import { format } from "./format";
-
 /** 获取时间当天0点0分0秒
  * @param t 时间
  * @returns {Date}
