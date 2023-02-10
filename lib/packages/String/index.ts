@@ -1,1 +1,2 @@
-export { encry, StringEncryOption, StringEncryMode } from './encry'
+export { desensitizeMobile, desensitizeWeb3Adds } from './desensitize'
+export { capture } from './capture'
