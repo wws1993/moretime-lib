@@ -1,4 +1,4 @@
-import _typeof from "../Cmd/typeof"
+import _typeof from "../CMD/typeof"
 
 /** 生成重复数据
  * @param len 重复数据长度
